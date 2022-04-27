@@ -1,3 +1,5 @@
+import './form.css';
+
 const myFormElem = document.querySelector(".my-form");
 const formOutput = document.querySelector(".form__json");
 const submitBtn = myFormElem.querySelector(".btn-success");

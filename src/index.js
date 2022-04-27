@@ -1,3 +1,5 @@
+import './index.css';
+
 const HeaderElement = document.querySelector(".header");
 const ModalElement = document.querySelector(".modal");
 
@@ -11,19 +13,19 @@ const cardTemplate = ".card__template";
 const cardContainer = ".card__container";
 const cardTitle = ".card__title";
 
-let cards = [
+const cards = [
   {
-    title: 01,
+    title: `01`,
     color: "linear-gradient(to right, #ffecd2 0%, #fcb69f 100%)",
     border: "solid",
   },
   {
-    title: 02,
+    title: `02`,
     color: "linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%)",
     border: "dashed",
   },
   {
-    title: 03,
+    title: `03`,
     color: "linear-gradient(to top, #f43b47 0%, #453a94 100%)",
     border: "solid",
   },
