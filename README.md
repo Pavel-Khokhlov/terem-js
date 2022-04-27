@@ -1,5 +1,7 @@
 # TEST TEREM
 
+* [Cсылка на проект](https://pavel-khokhlov.github.io/terem-js/)
+
 ## 1. Верстка
 * 1.1 Сделать HTML страницу с тэгами title "Тест", заполнить тэг meta description lorem ipsum
 * 1.2 Подключить к странице jQuery и Bootstrap актуальной версии из веб репозитория
